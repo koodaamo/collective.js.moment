@@ -7,12 +7,12 @@ If you need translations you need to add files from the resources/lang
 directory in your policy package.
 
 If for example you would like to be able to translate to Dutch you need to
-include this to your jsregistry.xml
+include this to your jsregistry.xml ::
 
-``<javascript authenticated="False" cacheable="True" compression="safe"
-    conditionalcomment="" cookable="True" enabled="True" expression=""
-    id="++resource++collective.js.moment/lang/nl.js" inline="False"/>
-``
+    <javascript authenticated="False" cacheable="True" compression="safe" conditionalcomment="" 
+                cookable="True" enabled="True" expression=""
+                id="++resource++collective.js.moment/lang/nl.js" inline="False"/>
+
 
 About moment.js
 ===============
