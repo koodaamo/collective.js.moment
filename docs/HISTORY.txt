@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.0.1 (unreleased)
-----------------
+1.0.1 (2012-09-05)
+------------------
 
 - Update to MANIFEST.in to fix the egg
 
