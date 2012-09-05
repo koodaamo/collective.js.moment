@@ -25,11 +25,11 @@ Companies
 Authors
 -------
 
-- JeanMichel FRANCOIS aka toutpt <toutpt@gmail.com>
+- Franklin Kingma aka kingel <franklin@fourdigits.nl>
 
 .. Contributors
 
 .. |fourdigits| image:: http://www.fourdigits.nl/++theme++fourdigits.theme/images/logo.png
 .. _fourdigits:  http://www.fourdigits.nl
-.. _glisse.js: http://momentjs.com/
+.. _moment.js: http://momentjs.com/
 .. _github: https://github.com/timrwood/moment/
