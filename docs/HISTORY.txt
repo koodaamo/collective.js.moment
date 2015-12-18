@@ -1,6 +1,11 @@
 Changelog
 =========
 
+2.10.2 (18.12. 2015)
+--------------------
+
+- Switch to original source package -based
+  versioning (of moment.js)
 
 1.1 (unreleased)
 ---------------------
